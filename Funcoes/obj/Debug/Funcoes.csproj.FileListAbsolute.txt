@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\vinicius.fernandes\source\repos\Funcoes\Funcoes\obj\Debug\Funcoes.pdb
